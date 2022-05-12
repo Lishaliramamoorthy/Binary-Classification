@@ -1,4 +1,5 @@
-# BINARY CLASSIFICATION
+## EX NO:2
+## DATE :
 ## AIM:
 
 To write a python program to perform binary classification.
