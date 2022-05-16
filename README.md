@@ -1,4 +1,4 @@
-### EX NO: 07
+### EX NO: 02
 ### DATE:
 # <p align="center">BINARY CLASSIFICATION <p/>
 ## AIM:
